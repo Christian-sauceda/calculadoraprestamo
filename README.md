@@ -3,7 +3,6 @@
 Esta aplicación web te permite calcular las cuotas mensuales de un préstamo, así como generar una tabla de amortización detallada.
 
 ----------------------------------------------------------------------
-----------------------------------------------------------------------
 
 ## Uso de la Calculadora de Préstamo 
 
@@ -14,7 +13,6 @@ Una vez que estés en la calculadora en línea, podrás utilizarla de la siguien
 3. Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
 
 ----------------------------------------------------------------------
-----------------------------------------------------------------------
 
 ## Acceso Directo a la Calculadora (En línea)
 
@@ -22,7 +20,6 @@ Puedes acceder directamente a la calculadora en línea haciendo clic en el sigui
 
 [Calculadora de Préstamo](https://gymnorhinal-collars.000webhostapp.com/)
 
-----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 ## Acceso a la Calculadora de Préstamo (servidor Local)
