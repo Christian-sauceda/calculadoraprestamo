@@ -46,9 +46,10 @@ También puedes utilizar la calculadora de préstamos en tu máquina local sigui
      ```
 
 ----------------------------------------------------------------------
-----------------------------------------------------------------------
 
+Este proyecto utiliza las siguientes tecnologías:
 
-
-
-
+- HTML
+- CSS (Tailwind CSS)
+- JavaScript (para alertas SweetAlert)
+- PHP
