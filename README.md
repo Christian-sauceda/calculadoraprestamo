@@ -1,6 +1,7 @@
 # Calculadora de Préstamo en PHP
 
 Esta aplicación web te permite calcular las cuotas mensuales de un préstamo, así como generar una tabla de amortización detallada.
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -11,6 +12,7 @@ Una vez que estés en la calculadora en línea, podrás utilizarla de la siguien
 1. Ingresa el monto del préstamo, la tasa de interés anual (%) y el plazo del préstamo en meses en los campos correspondientes.
 2. Haz clic en el botón "Calcular" para obtener la cuota mensual del préstamo.
 3. Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -19,6 +21,7 @@ Una vez que estés en la calculadora en línea, podrás utilizarla de la siguien
 Puedes acceder directamente a la calculadora en línea haciendo clic en el siguiente enlace:
 
 [Calculadora de Préstamo](https://gymnorhinal-collars.000webhostapp.com/)
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -44,6 +47,10 @@ También puedes utilizar la calculadora de préstamos en tu máquina local sigui
      ```
      http://localhost/calculadoraprestamo/views/form_calculo_prestamo.php
      ```
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
 
 
 
