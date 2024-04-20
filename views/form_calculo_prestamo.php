@@ -17,17 +17,17 @@
             </div>
             <div class="flex justify-center">
                 <form onsubmit="return validarFormulario()" action="../controllers/calcular_cuota.php" method="post" class="w-full max-w-md">
-                    <div class="mb-4">
+                <div class="mb-4">
                         <label for="monto" class="block text-sm font-medium text-gray-700">Monto del préstamo:</label>
-                        <input type="number" id="monto" name="monto"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['monto'])) echo 'value="' . $_POST['monto'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
+                        <input type="number" placeholder="Ingresa el Monto del préstamo" id="monto" name="monto"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['monto'])) echo 'value="' . $_POST['monto'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
                     </div>
                     <div class="mb-4">
                         <label for="tasa" class="block text-sm font-medium text-gray-700">Tasa de interés anual (%):</label>
-                        <input type="number" id="tasa" name="tasa"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['tasa'])) echo 'value="' . $_POST['tasa'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
+                        <input type="number" placeholder="Ingresa la Tasa de interés anual" id="tasa" name="tasa"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['tasa'])) echo 'value="' . $_POST['tasa'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
                     </div>
                     <div class="mb-4">
                         <label for="plazo" class="block text-sm font-medium text-gray-700">Plazo del préstamo en meses:</label>
-                        <input type="number" id="plazo" name="plazo"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['plazo'])) echo 'value="' . $_POST['plazo'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
+                        <input type="number" placeholder="Ingresa el Plazo del préstamo en meses"id="plazo" name="plazo"  class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md px-4 py-2" <?php if (isset($_POST['plazo'])) echo 'value="' . $_POST['plazo'] . '"'; ?> pattern="[0-9]+" oninput="validity.valid||(value='');">
                     </div>
                     <div class="flex justify-between">
                         <button type="submit" class="bg-teal-800 text-white py-2 px-4 rounded-md hover:bg-teal-600 w-4/5 mr-2">Calcular</button>
