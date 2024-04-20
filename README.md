@@ -1,34 +1,16 @@
-# Calculadora Prestamo
-
-Este proyecto es el backend de TesloShop, desarrollado utilizando Nest.js.
-
-
-
 # Calculadora de Préstamo en PHP
 
 Esta aplicación web te permite calcular las cuotas mensuales de un préstamo, así como generar una tabla de amortización detallada.
 
-## Configuración del Proyecto
+## Acceso Directo a la Calculadora
 
-Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
+Puedes acceder directamente a la calculadora en línea haciendo clic en el siguiente enlace:
 
-1. Asegúrate de tener instalado PHP en tu sistema. Puedes descargarlo desde [php.net](https://www.php.net/downloads).
-
-2. Clona este repositorio en tu máquina local.
-
-3. Configura tu entorno copiando el archivo `.env.example` y renombrándolo a `.env`. Asegúrate de establecer las variables de entorno necesarias, como la configuración de la base de datos, si es aplicable.
-
-4. Abre una terminal en el directorio del proyecto y ejecuta el servidor PHP integrado con el siguiente comando:
-
-    ```bash
-    php -S localhost:8000
-    ```
-
-5. Accede a la aplicación en tu navegador web utilizando la dirección `http://localhost:8000`.
+[Calculadora de Préstamo](https://gymnorhinal-collars.000webhostapp.com/)
 
 ## Uso de la Calculadora de Préstamo
 
-Una vez que la aplicación esté en funcionamiento, podrás utilizar la calculadora de préstamo de la siguiente manera:
+Una vez que estés en la calculadora en línea, podrás utilizarla de la siguiente manera:
 
 1. Ingresa el monto del préstamo, la tasa de interés anual (%) y el plazo del préstamo en meses en los campos correspondientes.
 
@@ -40,7 +22,7 @@ Una vez que la aplicación esté en funcionamiento, podrás utilizar la calculad
 
 La aplicación también proporciona una API para calcular la cuota mensual del préstamo. Puedes encontrar la documentación de la API en:
 
-[Documentación de la API](http://localhost:8000/api-docs)
+[Documentación de la API](https://gymnorhinal-collars.000webhostapp.com/api-docs)
 
 ## Contribuir
 
