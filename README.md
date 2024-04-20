@@ -8,15 +8,7 @@ Puedes acceder directamente a la calculadora en línea haciendo clic en el sigui
 
 [Calculadora de Préstamo](https://gymnorhinal-collars.000webhostapp.com/)
 
-## Uso de la Calculadora de Préstamo (En línea)
-
-Una vez que estés en la calculadora en línea, podrás utilizarla de la siguiente manera:
-
-1. Ingresa el monto del préstamo, la tasa de interés anual (%) y el plazo del préstamo en meses en los campos correspondientes.
-2. Haz clic en el botón "Calcular" para obtener la cuota mensual del préstamo.
-3. Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
-
-## Uso de la Calculadora de Préstamo (Local)
+## Acceso a la Calculadora de Préstamo (servidor Local)
 
 También puedes utilizar la calculadora de préstamos en tu máquina local siguiendo estos pasos:
 
@@ -39,8 +31,12 @@ También puedes utilizar la calculadora de préstamos en tu máquina local sigui
      http://localhost/calculadoraprestamo/views/form_calculo_prestamo.php
      ```
 
-5. **Utilizar la Calculadora:**
-   - Una vez que hayas accedido a la URL proporcionada, verás el formulario de la calculadora de préstamos.
-   - Ingresa el monto del préstamo, la tasa de interés anual (%) y el plazo del préstamo en meses en los campos correspondientes.
-   - Haz clic en el botón "Calcular" para obtener la cuota mensual del préstamo.
-   - Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
+     ## Uso de la Calculadora de Préstamo 
+
+Una vez que estés en la calculadora en línea, podrás utilizarla de la siguiente manera:
+
+1. Ingresa el monto del préstamo, la tasa de interés anual (%) y el plazo del préstamo en meses en los campos correspondientes.
+2. Haz clic en el botón "Calcular" para obtener la cuota mensual del préstamo.
+3. Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
+
+
