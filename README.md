@@ -18,16 +18,3 @@ Una vez que estés en la calculadora en línea, podrás utilizarla de la siguien
 
 3. Si deseas reiniciar los campos del formulario, puedes hacer clic en el botón "Limpiar".
 
-## Documentación de API
-
-La aplicación también proporciona una API para calcular la cuota mensual del préstamo. Puedes encontrar la documentación de la API en:
-
-[Documentación de la API](https://gymnorhinal-collars.000webhostapp.com/api-docs)
-
-## Contribuir
-
-Si deseas contribuir a este proyecto, ¡estamos abiertos a tus sugerencias y contribuciones! Siéntete libre de enviar pull requests o abrir nuevos issues.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
